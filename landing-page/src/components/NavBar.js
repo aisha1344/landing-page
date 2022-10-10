@@ -7,7 +7,7 @@ const  NavBar = ()=>{
             <div className='nav'>
             <div className='main'>
            <div className='logo'>
-               <h2> the legend one of kind </h2>
+               <h2> web app </h2>
            </div>
            <div className='menus'>
                <ul>

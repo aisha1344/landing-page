@@ -1,0 +1,117 @@
+.contact-main{
+    background-color: rgb(106, 106, 250);
+    width: 100%;
+    margin-top: 4rem;
+    /* height: 100%;  */
+}
+.contect{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 8rem;
+
+}
+.contect .con-middle .empty{
+    width: 5rem;
+    height: 2%;
+    background-color: rgb(145, 145, 250);
+    margin-bottom: 1rem;
+}
+.con-middle h2{
+    font-size: 3rem;
+    color: white;
+
+}
+.con-middle{
+    margin-right: 6rem;
+}
+.con-middle p{
+    color: whitesmoke;
+    font-size: 1.2rem;
+    margin: 2rem 0 3rem 0;
+}
+.con-middle input{
+    width: 48%;
+    padding: 1.3rem 4rem;
+    outline: none;
+    border: none;
+    margin-right: 1rem;
+    text-align: center;
+
+
+}
+.con-middle input::placeholder{
+    text-align: left;
+    font-size: 1.2rem;
+    color: gray;
+}
+.con-middle textarea{
+    width: 98%;
+    height: 20vh;
+    margin-top: 1rem;
+    color: gray;
+    font-size: 1.5rem;
+    padding: .8rem 0 0 1rem;
+
+}
+.con-middle button{
+    padding: 1.5rem 4.5rem;
+    background-color: rgb(106, 106, 250);
+    border: 2px solid rgb(251, 251, 251);
+    border-radius: 2rem;
+    margin-top: 1.5rem;
+
+}
+
+.con-middle-r {
+    margin-right: 6rem;
+    margin-top: 2rem;
+}
+.con-middle-r h4{
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
+.con-middle-r i{
+    color: white;
+    font-size: 1.3rem;
+    padding-right: 1rem;
+    margin: 1rem 1rem 1rem 0;
+}
+.con-middle-r p{
+    color: rgb(221, 219, 219);
+    font-size: 1.3rem;
+}
+
+.contact-main .empty{
+    width: 90%;
+    height: .1rem;
+    background-color: rgb(209, 209, 209);
+    margin-top: 5rem;
+    margin-left: 4rem;
+}
+.icons {
+    margin-top: 3rem;
+    margin-right: 1rem;
+    text-align: center;
+
+}
+.icons i{
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 8rem;
+    
+}
+.footer{
+    height: 10vh;
+    margin: 4.5rem 0 4rem 0 ;
+    text-align: center;
+}
+.footer p{
+    color: gray;
+    font-size: 1.5rem;
+}
+.footer a{
+    font-size: 1.4rem;
+    color: rgb(106, 106, 250);
+    text-decoration: none;
+}

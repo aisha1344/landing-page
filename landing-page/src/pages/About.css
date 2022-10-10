@@ -1,0 +1,68 @@
+.main-about{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(246, 246, 246);
+}
+
+.about{
+    padding-top: 5%;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img img{
+    width: 650px;
+    height: 100%;
+    margin-top: 1rem;
+}
+
+.rside{
+    text-align: left;
+    margin-right: 1.5rem;
+}
+.rside h2{
+    font-size: 3rem;
+    color: rgb(63, 63, 63);
+}
+.rside p{
+    margin-top: 3rem;
+    font-size: 1.3rem;
+    color: rgb(128, 126, 126);
+    word-spacing: .4rem;
+}
+
+.list {
+display: flex;
+justify-content: space-evenly;
+margin-top: 6%;
+}
+.list ul {
+    font-size: 3rem;
+    margin-left: -8%;
+    
+}
+
+.list1 ul li{
+    font-size: 1.3rem;
+    margin-left: 9%;
+    margin-top: .5rem;
+ 
+}
+.list2 ul {
+    font-size: 1.3rem;
+    margin-top: 4.5rem;
+  
+}
+.list2 ul li{
+    margin-top: .5rem;
+
+}
+
+.empty{
+    background-color: rgb(61, 61, 231);
+    height: .8vh;
+    width: 15%;
+    margin-top: .5rem;
+    margin-left: 0%;
+}
+ 

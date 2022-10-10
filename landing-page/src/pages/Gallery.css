@@ -1,0 +1,36 @@
+.gallery-main{
+    width: 100%;
+    margin-top: 4%;
+}
+.gallery h2{
+    font-size: 2.8rem;
+    padding: .5rem;
+    color: rgb(26, 26, 26);
+    text-align: center;
+}
+.gallery .empty{
+    margin-left: 47%;
+    width: 5rem;
+}
+.gallery p{
+    font-size: 1.3rem;
+    color: rgb(85, 85, 85);
+    margin-top: 2rem;
+    text-align: center;
+
+}
+.images{
+    margin-top: 3rem;
+    text-align: center;
+   
+
+
+}
+.images img{
+    margin-right: .1rem;
+
+}
+.images img:hover{
+    border: 2px solid blue;
+    /* padding: .1rem; */
+}

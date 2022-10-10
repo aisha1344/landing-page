@@ -1,0 +1,45 @@
+.main-clients{
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    padding-bottom: 5rem;
+    margin: 0;
+    
+}
+.con-clients{
+    text-align: center;
+}
+.con-clients h2{
+    font-size: 3rem;
+    padding-top:7rem ;
+    
+}
+.con-clients .empty{
+    width: 5%;
+    height: .4rem;
+    margin-left: 48%;
+    margin-bottom: 1rem;
+}
+.clients{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+   
+}
+.client{
+    display: flex;
+padding-left: 3rem;
+padding-right: 1rem;
+}
+.innerimg img{
+    width:15rem;
+    border-radius: 3rem;
+    vertical-align: middle;
+    
+    
+}
+.innertxt {
+padding-left: 1.5rem;
+text-align: left;
+font-size: 1.2rem;
+color: rgb(100, 99, 99);
+}
